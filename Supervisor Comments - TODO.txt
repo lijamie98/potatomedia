@@ -2,6 +2,7 @@
 2. Miminize the knowledge of your code.
 3. Add playlists
 4. Add play(url) function.
+5. Use Ajax to load the playlist.
 
 Mine:
 
